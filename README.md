@@ -1,5 +1,5 @@
 ## Mothership SBT Compendium | 1e | FoundryVTT
--image coming soon
+![image](https://github.com/hollowphoton/fvtt_mosh_1e_sbt/assets/17795348/7ca46a6d-2c6d-448e-866a-a9cfbedee1ef)
 
 This is a module I've created for use in my own personal Mothership game. It contains everything I found relevant in the 1e Shipbreaker's Toolkit.
 
