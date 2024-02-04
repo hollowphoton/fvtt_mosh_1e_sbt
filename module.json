@@ -2,7 +2,7 @@
     "id": "fvtt_mosh_1e_sbt",
     "title": "Mothership 1e Compendium - SBT",
     "description": "A compendium covering everything in the Shipbreaker's Toolkit",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "compatibility": {
       "minimum": "0.8.6",
       "verified": "11"
